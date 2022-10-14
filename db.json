@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "abcdef",
+      "username": "test",
+      "email": "abc@gmail.com",
+      "phone": "1234567",
+      "website": "demo1.com",
+      "id": 3
+    },
+    {
+      "name": "Taha",
+      "username": "taha21",
+      "email": "taha21@gmail.com",
+      "phone": "9876543210",
+      "website": "taha.com",
+      "id": 2
+    },
+    {
+      "name": "Wylie Bates",
+      "username": "nofewuwa",
+      "email": "zyzanawaw@mailinator.com",
+      "phone": "+1 (459) 729-4703",
+      "website": "https://www.nelucoxarukan.com",
+      "id": 4
+    },
+    {
+      "name": "Josephine Camacho",
+      "username": "zisaxa",
+      "email": "tafypoq@mailinator.com",
+      "phone": "+1 (982) 895-6227",
+      "website": "https://www.lotohuzoby.biz",
+      "id": 5
+    },
+    {
+      "name": "Edan Mccormick",
+      "username": "qixebulu",
+      "email": "cetehi@mailinator.com",
+      "phone": "+1 (763) 876-6041",
+      "website": "https://www.kepigaxew.ws",
+      "id": 6
+    },
+    {
+      "name": "Ignacia Nixon",
+      "username": "qadifyc",
+      "email": "jyfi@mailinator.com",
+      "phone": "+1 (463) 946-9226",
+      "website": "https://www.tybyzyzuj.org.au",
+      "id": 7
+    }
+  ]
+}
